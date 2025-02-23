@@ -1,0 +1,15 @@
+# parcel 
+- Dev Build
+- Local Server
+- HMR = Hot Module Replacement 
+- File Watching Alogorithm which is written in C++
+- Faster Build form Caching
+- Image Optimization
+- Minification of files
+- Bundling of files
+- Compressing 
+- consistent Hashing 
+- Code Splitting 
+- Differential Bundling to support older Browsers 
+- Error Handling 
+- Diagnosis
